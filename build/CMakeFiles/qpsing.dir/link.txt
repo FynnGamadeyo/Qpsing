@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/qpsing.dir/src/main.cc.o  -o qpsing -rdynamic 

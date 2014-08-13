@@ -1,0 +1,1 @@
+/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/CMakeFiles/qpsing.dir
