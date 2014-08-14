@@ -7,4 +7,26 @@
 #IncludeRegexTransform: 
 
 /home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/src/main.cc
+stdio.h
+-
+stdlib.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+GL/glut.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
 

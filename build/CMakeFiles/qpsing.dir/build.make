@@ -81,6 +81,8 @@ qpsing_EXTERNAL_OBJECTS =
 
 qpsing: CMakeFiles/qpsing.dir/src/main.cc.o
 qpsing: CMakeFiles/qpsing.dir/build.make
+qpsing: /usr/lib64/libGLEW.so
+qpsing: /usr/lib64/libGLEW.so
 qpsing: CMakeFiles/qpsing.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable qpsing"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/qpsing.dir/link.txt --verbose=$(VERBOSE)

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="qpsing" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="qpsing">
+         <Option output="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/qpsing" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DTW_STATIC" />
+            <Add option="-DTW_NO_LIB_PRAGMA" />
+            <Add option="-DTW_NO_DIRECT3D" />
+            <Add option="-DGLEW_STATIC" />
+            <Add option="-D_CRT_SECURE_NO_WARNINGS" />
+            <Add directory="/usr/include/libdrm" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 qpsing" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="qpsing/fast">
+         <Option output="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/qpsing" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DTW_STATIC" />
+            <Add option="-DTW_NO_LIB_PRAGMA" />
+            <Add option="-DTW_NO_DIRECT3D" />
+            <Add option="-DGLEW_STATIC" />
+            <Add option="-D_CRT_SECURE_NO_WARNINGS" />
+            <Add directory="/usr/include/libdrm" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 qpsing/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/src/main.cc">
+      </Unit>
+      <Unit filename="/home/nam/KingWorkPlace/Projekt/4_cppOpenGlGame/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
